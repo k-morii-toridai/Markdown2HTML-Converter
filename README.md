@@ -9,7 +9,7 @@ https://pypi.org/project/Markdown/
 - Create a virtual environment
 
 ```zsh
-python3 -m venv FileManipulatorProgam
+python3 -m venv FileManipulatorProject
 ```
 
 - Activate virtual enviroment
