@@ -4,7 +4,7 @@
 
 https://pypi.org/project/Markdown/
 
-## Execution log (On MacOS)
+## Execution log
 
 - Create a virtual environment
 
