@@ -1,5 +1,5 @@
-import markdown
 import sys
+import markdown
 
 
 def markdown2HTML(inputfile, outputfile):
